@@ -24,19 +24,25 @@ I am a **Full Stack Developer** passionate about creating efficient, scalable, a
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+### Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ---
 
-## 🌟 Top 5 Projects
+## 🌟 Projects
 
 1. **AI Product Roadmap Generator**  
    - AI-driven tool for project planning with Reddit API integration, voice input, and interactive chatbots.  
-   - **Tech Stack**: NextJS, MongoDB, TailwindCSS, Google Gemini  
+   - **Tech Stack**: NextJS, Typescript MongoDB, TailwindCSS, Google Gemini  
    - **[Demo](https://makerhub.anutom.online/)**  
 
 2. **E-commerce Website**  
@@ -44,36 +50,21 @@ I am a **Full Stack Developer** passionate about creating efficient, scalable, a
    - **Tech Stack**: Node.js, ReactJS, MongoDB  
    - **[Demo](https://ecommerce-anutom20.onrender.com/)**  
 
-3. **AI Email Auto-Reply System**  
-   - Context-aware email reply generator using RAG and ChatGPT API, improving communication efficiency.  
-   - **Tech Stack**: FastAPI, Elasticsearch, MongoDB  
+3. **Summarizer AI Api**  
+   - generates summaries for stack-overflow and reddit threads.  
+   - **Tech Stack**: FastAPI, Docker , stackAPI , redditAPI
+   - **[Demo](https://reddit-stack-latest-rkv5.onrender.com/docs)**   
 
-4. **LinkedIn Automation Tool**  
-   - Chrome extension for automated outreach, achieving a 10x boost in efficiency.  
-   - **Tech Stack**: FastAPI, Selenium, Docker  
+4. **Titanic Survival Prediction**  
+   - A machine learning model that predicts the survival of the passengers in the famous titanic ship.  
+   - **Tech Stack**: Jupyter Notebook, pandas, numpy , kaggle , logistic regression model  
 
-5. **DSA Visualizer**  
-   - Interactive platform to visualize Data Structures and Algorithms, simplifying complex concepts for learners.  
-   - **Tech Stack**: ReactJS, Node.js, MongoDB  
-
----
-
-## 🏆 Achievements
-- **National Rank 730** in CodeKaze'21 (Coding Ninjas).
-- Advanced to **Round 2 of Meta Hacker Cup** (Global Rank: 2826).
-- Secured **Rank 2769** in Google Kickstart (Round-G).
-- Solved **1000+ DSA problems** on LeetCode, CodeChef, and Codeforces.
-
----
-
-## 📊 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anutom20&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anutom20&layout=compact&theme=radical)
-
----
-
-## 🌐 Let's Connect
-- **Email**: [anuragkt20@gmail.com](mailto:anuragkt20@gmail.com)
-- **LinkedIn**: [Anurag Tomar](https://www.linkedin.com/in/anurag-tomar-2a26b51b3/)
-- **GitHub**: [anutom20](https://github.com/anutom20)
-- **LeetCode**: [u/anuragkt20](https://leetcode.com/u/anuragkt20/)
+5. **Codechef Notify**  
+   - A chrome extension which sends the verdicts of the codechef problems as a desktop notification
+   - **Tech Stack**: Chrome extension dev , javascript
+  
+6. **React flow**  
+   - experimental react-flow project can be used to make chat message flowcharts
+   - **Tech Stack**: Typescript , javascript , react flow library
+   - - **[Demo](https://react-flow-project-3dcn.vercel.app/)**  
+  
