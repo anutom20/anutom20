@@ -54,7 +54,7 @@ I am a **Full Stack Developer** passionate about creating efficient, scalable, a
 3. **Summarizer AI Api**  
    - generates summaries for stack-overflow and reddit threads.  
    - **Tech Stack**: FastAPI, Docker , stackAPI , redditAPI
-   - **[Demo](https://reddit-stack-latest-rkv5.onrender.com/docs)**   
+   - **[Demo](https://reddit-stack-latest-j1qj.onrender.com/docs)**   
 
 4. **Titanic Survival Prediction**  
    - A machine learning model that predicts the survival of the passengers in the famous titanic ship.  
