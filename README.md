@@ -58,11 +58,13 @@ I am a **Full Stack Developer** passionate about creating efficient, scalable, a
 
 4. **Titanic Survival Prediction**  
    - A machine learning model that predicts the survival of the passengers in the famous titanic ship.  
-   - **Tech Stack**: Jupyter Notebook, pandas, numpy , kaggle , logistic regression model  
+   - **Tech Stack**: Jupyter Notebook, pandas, numpy , kaggle , logistic regression model
+   - **[Repo](https://github.com/anutom20/Titanic_Survival_Prediction)**
 
 5. **Codechef Notify**  
    - A chrome extension which sends the verdicts of the codechef problems as a desktop notification
    - **Tech Stack**: Chrome extension dev , javascript
+   - **[Repo](https://github.com/anutom20/Codechef-Notify)**
   
 6. **React flow**  
    - experimental react-flow project can be used to make chat message flowcharts
