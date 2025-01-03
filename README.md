@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anurag Tomar
 
 ### 🚀 About Me
-I am a **Full Stack Developer** passionate about creating efficient, scalable, and innovative software solutions. With a focus on both **frontend** and **backend** development, I specialize in delivering robust applications and seamless user experiences.
+I am a **Full Stack Developer** with 2 years of work experience  passionate about creating efficient, scalable, and innovative software solutions. With a focus on both **frontend** and **backend** development, I specialize in delivering robust applications and seamless user experiences.
 
 ---
 
