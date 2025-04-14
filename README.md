@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anurag Tomar
 
-### 🚀 About Me  
+## 🚀 About Me  
 I am a **Full Stack Developer** with 2 years of work experience passionate about creating efficient, scalable, and innovative software solutions. With a focus on both **frontend** and **backend** development, I specialize in delivering robust applications and seamless user experiences.
 
 ---
@@ -40,38 +40,54 @@ I am a **Full Stack Developer** with 2 years of work experience passionate about
 
 ## 🌟 Projects  
 
-1. **AI Product Roadmap Generator**  
-   - AI-driven tool for project planning with Reddit API integration, voice input, and interactive chatbots.  
-   - **Tech Stack**: Next.js, TypeScript, MongoDB, TailwindCSS, Google Gemini  
-   - **[Demo](https://makerhub.anutom.online/)**  
+### 1. [AI Product Roadmap Generator](https://makerhub.anutom.online/)
+AI-driven tool for project planning with Reddit API integration, voice input, and interactive chatbots.  
+**Tech Stack**: Next.js, TypeScript, MongoDB, TailwindCSS, Google Gemini  
 
-2. **Exploding Chickens**  
-   - A multiplayer card game inspired by Exploding Kittens with engaging gameplay and strategic mechanics.  
-   - Designed and balanced game mechanics, including card interactions and turn-based strategy, to create a fun and competitive experience.  
-   - **Tech Stack**: Vite, React, Node.js, Socket.io, WebSockets, Docker, Cloudflare, AWS EC2
-   - **[Demo](https://chickens.anutom.online/)**
+---
 
-3. **E-commerce Website**  
-   - Secure user authentication, advanced product filtering, and admin dashboard with Swagger UI documentation.  
-   - **Tech Stack**: Node.js, React.js, MongoDB  
-   - **[Demo](https://ecommerce-anutom20.onrender.com/)**  
+### 2. [Exploding Chickens](https://chickens.anutom.online/)  
+Multiplayer card game inspired by Exploding Kittens. Designed with turn-based mechanics, card interactions, and competitive play.  
+**Tech Stack**: Vite, React, Node.js, Socket.io, WebSockets, Docker, Cloudflare, AWS EC2  
 
-4. **Summarizer AI API**  
-   - Generates summaries for Stack Overflow and Reddit threads.  
-   - **Tech Stack**: FastAPI, Docker, StackAPI, Reddit API  
-   - **[Demo](https://reddit-stack-latest-j1qj.onrender.com/docs)**   
+---
 
-5. **Titanic Survival Prediction**  
-   - A machine learning model that predicts the survival of passengers on the Titanic.  
-   - **Tech Stack**: Jupyter Notebook, Pandas, NumPy, Kaggle, Logistic Regression  
-   - **[Repo](https://github.com/anutom20/Titanic_Survival_Prediction)**  
+### 3. [E-commerce Website](https://ecommerce-anutom20.onrender.com/)  
+Secure user auth, product filtering, admin dashboard, Swagger UI docs.  
+**Tech Stack**: Node.js, React.js, MongoDB  
 
-6. **CodeChef Notify**  
-   - A Chrome extension that sends verdict notifications for CodeChef problems.  
-   - **Tech Stack**: Chrome Extension Dev, JavaScript  
-   - **[Repo](https://github.com/anutom20/Codechef-Notify)**  
+---
 
-7. **React Flow**  
-   - Experimental React Flow project for making chat message flowcharts.  
-   - **Tech Stack**: TypeScript, JavaScript, React Flow Library  
-   - **[Demo](https://react-flow-project-3dcn.vercel.app/)**  
+### 4. [Summarizer AI API](https://reddit-stack-latest-j1qj.onrender.com/docs)  
+Generates summaries for Stack Overflow and Reddit threads.  
+**Tech Stack**: FastAPI, Docker, StackAPI, Reddit API  
+
+---
+
+### 5. [Titanic Survival Prediction](https://github.com/anutom20/Titanic_Survival_Prediction)  
+ML model that predicts survival odds for Titanic passengers.  
+**Tech Stack**: Jupyter Notebook, Pandas, NumPy, Kaggle, Logistic Regression  
+
+---
+
+### 6. [CodeChef Notify](https://github.com/anutom20/Codechef-Notify)  
+Chrome extension that sends verdict notifications for CodeChef problems.  
+**Tech Stack**: Chrome Extension Dev, JavaScript  
+
+---
+
+### 7. [React Flow](https://react-flow-project-3dcn.vercel.app/)  
+Experimental project using React Flow library to create chat-based flowcharts.  
+**Tech Stack**: TypeScript, JavaScript, React Flow Library  
+
+---
+
+### 8. [YouTube Clipping Generator](https://yt-clipping.vercel.app/)  
+Express.js REST API for YouTube live stream clip generation.  
+- Fetches currently live streams for a YouTube channel  
+- Generates timestamped links to specific moments  
+- Sends those clips to a Discord channel via Discord.js  
+- Modern ES6 JavaScript syntax  
+**Tech Stack**: Express.js, YouTube API, Discord.js, JavaScript  
+
+---
