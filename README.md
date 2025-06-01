@@ -40,13 +40,13 @@ I am a **Full Stack Developer** with 2 years of work experience passionate about
 
 ## 🌟 Projects  
 
-### 1. [AI Product Roadmap Generator](https://makerhub.anutom.online/)
+### 1. [AI Product Roadmap Generator](https://makerhub.anutom.site/)
 AI-driven tool for project planning with Reddit API integration, voice input, and interactive chatbots.  
 **Tech Stack**: Next.js, TypeScript, MongoDB, TailwindCSS, Google Gemini  
 
 ---
 
-### 2. [Exploding Chickens](https://chickens.anutom.online/)  
+### 2. [Exploding Chickens](https://chickens.anutom.site/)  
 Multiplayer card game inspired by Exploding Kittens. Designed with turn-based mechanics, card interactions, and competitive play.  
 **Tech Stack**: Vite, React, Node.js, Socket.io, WebSockets, Docker, Cloudflare, AWS EC2  
 
