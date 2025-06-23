@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Anurag Tomar
 
 ## 🚀 About Me  
-I am a **Full Stack Developer** with 2 years of work experience passionate about creating efficient, scalable, and innovative software solutions. With a focus on both **frontend** and **backend** development, I specialize in delivering robust applications and seamless user experiences.
+I am a **Full Stack Developer** with 2.5 years of work experience passionate about creating efficient, scalable, and innovative software solutions. With a focus on both **frontend** and **backend** development, I specialize in delivering robust applications and seamless user experiences.
 
 ---
 
@@ -40,7 +40,7 @@ I am a **Full Stack Developer** with 2 years of work experience passionate about
 
 ## 🌟 Projects  
 
-### 1. [AI Product Roadmap Generator](https://makerhub.anutom.site/)
+### 1. [AI Product Roadmap Generator](https://makerhub.anutom.site/)  
 AI-driven tool for project planning with Reddit API integration, voice input, and interactive chatbots.  
 **Tech Stack**: Next.js, TypeScript, MongoDB, TailwindCSS, Google Gemini  
 
@@ -87,7 +87,14 @@ Express.js REST API for YouTube live stream clip generation.
 - Fetches currently live streams for a YouTube channel  
 - Generates timestamped links to specific moments  
 - Sends those clips to a Discord channel via Discord.js  
-- Modern ES6 JavaScript syntax  
 **Tech Stack**: Express.js, YouTube API, Discord.js, JavaScript  
 
 ---
+
+### 9. [Personal Portfolio Website](https://portfolio.anutom.site)  
+A sleek, responsive portfolio showcasing my skills, projects, and contact details. Optimized for performance and accessibility with a modern design.  
+**Tech Stack**: Next.js, TypeScript, TailwindCSS, Vercel
+
+---
+
+> Built with ❤️ by Anurag Tomar
