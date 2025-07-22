@@ -92,8 +92,8 @@ Express.js REST API for YouTube live stream clip generation.
 ---
 
 ### 9. [2D Animation AI](https://github.com/anutom20/2d_animation_ai)  
-AI-powered 2D animation generator that transforms text prompts into animated sequences. Features customizable character designs, scene transitions, and export capabilities for various formats.  
-**Tech Stack**: Python, TensorFlow, OpenCV, Flask, React, Canvas API  
+AI-powered 2D animation generator that transforms text prompts into animated sequences using the Manim library. Features customizable character designs, scene transitions, and export capabilities for various formats.  
+**Tech Stack**: Python, Langchain, Manim, Fastapi, LLM , OpenAi
 
 ---
 
