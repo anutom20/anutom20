@@ -91,7 +91,13 @@ Express.js REST API for YouTube live stream clip generation.
 
 ---
 
-### 9. [Personal Portfolio Website](https://portfolio.anutom.site)  
+### 9. [2D Animation AI](https://github.com/anutom20/2d_animation_ai)  
+AI-powered 2D animation generator that transforms text prompts into animated sequences. Features customizable character designs, scene transitions, and export capabilities for various formats.  
+**Tech Stack**: Python, TensorFlow, OpenCV, Flask, React, Canvas API  
+
+---
+
+### 10. [Personal Portfolio Website](https://portfolio.anutom.site)  
 A sleek, responsive portfolio showcasing my skills, projects, and contact details. Optimized for performance and accessibility with a modern design.  
 **Tech Stack**: Next.js, TypeScript, TailwindCSS, Vercel
 
